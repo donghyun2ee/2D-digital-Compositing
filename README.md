@@ -16,7 +16,7 @@
 3. 채도: 빛의 선명도를 나타낸다.
 4. 명도: 빛의 밝기를 나타내는 지표이다.
 > 삼원색 - 가산혼합과 감산혼합에서 기본이 되는 색이다.
-1. ![image](https://user-images.githubusercontent.com/90343486/134352659-357b3f9c-a188-4b2e-9d83-c53b0cdea896.png)
-2. 가산혼합 - 빨강, 초록, 파랑 - 빛의 삼원색 ex) 
-3. ![image](https://user-images.githubusercontent.com/90343486/134352790-41d947d4-211f-466b-97d6-a2d561bacb94.png)
+ ![image](https://user-images.githubusercontent.com/90343486/134352659-357b3f9c-a188-4b2e-9d83-c53b0cdea896.png)
+2. 가산혼합 - 빨강, 초록, 파랑 - 빛의 삼원색 ex) 모니터
+ ![image](https://user-images.githubusercontent.com/90343486/134352790-41d947d4-211f-466b-97d6-a2d561bacb94.png)
 4. 감산혼합 - 마젠타, 시안, 노랑 - 색의 삼원색 ex) 프린트
