@@ -27,4 +27,8 @@
 3. 출처 https://ko.wikipedia.org/wiki/%EC%83%89
 ## Alpha
 알파란 무엇인가.
->
+> Alpha 채널 
+> 알파 채널 또는 알파 합성은 a채널과 이미지 처리 분야에 있고, 각 화소에 대해 색상 표현의 데이터로 보조 데이터를 말한다.
+1. Alpha 값은 0.0(완전 투명색) ~ 1.0(완전 불투명) 으로 표현이이 된다.
+2. ![image](https://user-images.githubusercontent.com/90343486/134357150-42c6cef8-a88e-41ab-8314-a28bb1585aae.png)
+3. 출저 https://ko.wikipedia.org/wiki/%EC%95%8C%ED%8C%8C_%EC%B1%84%EB%84%90
