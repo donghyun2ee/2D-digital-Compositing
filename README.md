@@ -39,4 +39,16 @@ Color space(색공간) 무엇인가.
 1. 색 표시계는 CIERGB, CIEXYZ, CIELAB, CIELUV 등의 색 체계를 말한다.
 2. 디자인 학계나 산업계에서 색채 디자인 또는 시각 디자인등 카메라, 스캐너, 모니터, 프린터 등에 사용
 3. 컬러 영상 장비 개발 및 응용 단계에서 색 공간은 정확한 색 표현을하기위해 필수적이다.
-4. 디지털, 디자인에서 사용되는 색 공간은 CIELAB 색공간이며, 먼셀 색 표시계의 기본 원리 색의 3속성(색상(hue), 명도(lightness), 채도(chroma)) 를 사용한다.
+4. 디지털, 디자인에서 사용되는 색 공간은 CIELAB 색공간이며, 먼셀 색 표시계의 기본 원리 색의 3속성(색상(hue), 명도(Value), 채도(Saturation)를 사용한다.
+#### RGB 색 공간
+1. 색을 혼합하면 명도가 올라가는 가산 혼합 방식이다. R(레드), G(그린), B(블루) 의 삼원색이 있다.
+2. ![image](https://user-images.githubusercontent.com/90343486/134359532-9262ac8b-5205-4dc0-8055-4d747c21ffac.png)
+#### CMYK 색 공간
+1. 색을 혼합하면 명도가 낮아지는 감산 혼합 방식이다. 인쇄과정에서 쓰이며, 네 가지의 잉크의 조합으로 색을 나타낸다. C(시안), M(마젠타), Y(노랑), K(검정) D있다.
+2. ![image](https://user-images.githubusercontent.com/90343486/134359813-633c3b00-c054-4ddb-8408-89b4f379be3d.png)
+#### HSV 색 공간
+1. 색상(Hue), 명도(Value), 채도(Saturation) 기준이 되는 방식이다. 색상의 직관적이다. 시각 예술에 사용된다.
+2. ![image](https://user-images.githubusercontent.com/90343486/134360090-a8a0ad0c-920b-492e-967a-e78c19a38d00.png)
+3. 출저 https://ko.wikipedia.org/wiki/%EC%83%89_%EA%B3%B5%EA%B0%84
+
+
