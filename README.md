@@ -7,7 +7,7 @@
 3. Vector: 표현 vector2 (x,y) vector3 (x,y,z) vector4 (x,y,z,w)
 4. Integer: 소숫점이 필요없다. 0,1,2,3,4...
 5. Float: 0.1, 2.35, 3.142...
-> Boolean: 0(off) or 1(on)  ex 레이어를 껏다 켰다. - 불린데이터 
+6. Boolean: 0(off) or 1(on)  ex 레이어를 껏다 켰다. - 불린데이터 
 ## Color
 
 
