@@ -32,3 +32,11 @@
 1. Alpha 값은 0.0(완전 투명색) ~ 1.0(완전 불투명) 으로 표현이이 된다.
 2. ![image](https://user-images.githubusercontent.com/90343486/134357688-8289b809-ce68-4a40-8c71-52b25d59ed53.png)
 3. 출저 https://ko.wikipedia.org/wiki/%EC%95%8C%ED%8C%8C_%EC%B1%84%EB%84%90
+## Color space
+Color space(색공간) 무엇인가.
+> 색공간은 색 표시계(color system)를 3차원으로 표현한 공간의 개념이다. 모든 색들은 이 색 공간에서 3차원 좌표로 나타낸다.
+### 색 표시계
+1. 색 표시계는 CIERGB, CIEXYZ, CIELAB, CIELUV 등의 색 체계를 말한다.
+2. 디자인 학계나 산업계에서 색채 디자인 또는 시각 디자인등 카메라, 스캐너, 모니터, 프린터 등에 사용
+3. 컬러 영상 장비 개발 및 응용 단계에서 색 공간은 정확한 색 표현을하기위해 필수적이다.
+4. 디지털, 디자인에서 사용되는 색 공간은 CIELAB 색공간이며, 먼셀 색 표시계의 기본 원리 색의 3속성(색상(hue), 명도(lightness), 채도(chroma)) 를 사용한다.
