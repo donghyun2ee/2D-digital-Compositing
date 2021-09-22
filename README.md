@@ -24,3 +24,4 @@
  가산혼합 - R(빨강), G(초록), B(파랑) - 빛의 삼원색 ex) 모니터, 빛, 스크린
 2. ![image](https://user-images.githubusercontent.com/90343486/134352790-41d947d4-211f-466b-97d6-a2d561bacb94.png)
  감산혼합 - C(시안), M(마젠타), Y(노랑), K(블랙) - 색의 삼원색 ex) 잉크, 프린트, 인쇄물
+출처 https://ko.wikipedia.org/wiki/%EC%83%89
