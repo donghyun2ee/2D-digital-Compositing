@@ -11,7 +11,7 @@
 6. Boolean: 0(off) or 1(on)  ex 레이어를 껏다 켰다. - 불린데이터 
 ## Compositing
 > Compositing(합성)
-
+1. 둘 이상의 것을 합쳐서 하나를 이룬다.
 ## Color
 컬러란 무엇인가.
 > "빛깔" 혹은 "색" 이라는 뜻을 갖고 있다. 빛의 주파수(파장)의 차이에 따라 색상이 다르게 느껴진다.
@@ -25,3 +25,6 @@
 2. ![image](https://user-images.githubusercontent.com/90343486/134352790-41d947d4-211f-466b-97d6-a2d561bacb94.png)
  감산혼합 - C(시안), M(마젠타), Y(노랑), K(블랙) - 색의 삼원색 ex) 잉크, 프린트, 인쇄물
 3. 출처 https://ko.wikipedia.org/wiki/%EC%83%89
+## Alpha
+알파란 무엇인가.
+>
