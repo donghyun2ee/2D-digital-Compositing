@@ -33,7 +33,7 @@
 > 알파 채널 또는 알파 합성은 a채널과 이미지 처리 분야에 있고, 각 화소에 대해 색상 표현의 데이터로 보조 데이터를 말한다.
 1. Alpha 값은 0.0(완전 투명색) ~ 1.0(완전 불투명) 으로 표현이이 된다.
 2. ![image](https://user-images.githubusercontent.com/90343486/134357688-8289b809-ce68-4a40-8c71-52b25d59ed53.png)
-3. 출저 https://ko.wikipedia.org/wiki/%EC%95%8C%ED%8C%8C_%EC%B1%84%EB%84%90
+3. 출처 https://ko.wikipedia.org/wiki/%EC%95%8C%ED%8C%8C_%EC%B1%84%EB%84%90
 ### Color space
 Color space(색공간) 무엇인가.
 > 색공간은 색 표시계(color system)를 3차원으로 표현한 공간의 개념이다. 모든 색들은 이 색 공간에서 3차원 좌표로 나타낸다.
@@ -51,7 +51,7 @@ Color space(색공간) 무엇인가.
 ### HSV 색 공간
 1. 색상(Hue), 명도(Value), 채도(Saturation) 기준이 되는 방식이다. 색상의 직관적이다. 시각 예술에 사용된다.
 2. ![image](https://user-images.githubusercontent.com/90343486/134360090-a8a0ad0c-920b-492e-967a-e78c19a38d00.png)
-3. 출저 https://ko.wikipedia.org/wiki/%EC%83%89_%EA%B3%B5%EA%B0%84
+3. 출처 https://ko.wikipedia.org/wiki/%EC%83%89_%EA%B3%B5%EA%B0%84
 -----------------------------------------------------------------------
 ## 3Week
 ### Gamma
@@ -61,6 +61,7 @@ Color space(색공간) 무엇인가.
 > 쉽게 말해 눈이 색깔의 변화를 느끼는 정도의 차이가 다르기 때문에 디스플레이의 색상의 단계를 정한 것이다.
 > 적합한 이미지 품질을 얻기 위해 인체 시야의 비선형성을 보상하는 밝기 값 인코딩을 나타낸다.
 1. 이유: 사람의 눈은 컬로보다 밝기 차이에 민감하다. 세포는 밝기에 반응하는 세포수가 컬러반응 세포보다 절대적으로 많다.
+2. 사람의 눈은 베버의 법칙 때문에 밝은 색보다 어두운 색에 훨씬 민감하다.
 ### 감마의 세가지 유형
 1. 이미지 감마 - 카메라 또는 RAW 이미지 변환 소프트웨어에서 JPG, TIFF 같은 압축 파일로 변환할때 사용한다.
 2. 디스플레이 감마 - 컴퓨터, 모니터, 비디오 카드 등에서 이미지 출력을 조정할때 사용된다. 높은 디스플레이 일수록 감마는 더 어둡고 대비가 있는 이미지를 만든다.
@@ -73,7 +74,7 @@ Color space(색공간) 무엇인가.
 5.  ![image](https://user-images.githubusercontent.com/90343486/135304286-8a3db363-0789-4eae-bfca-2951de6bc734.png)
 6.  CRT(음극으로 부터 방출된 전자의 흐름 선관) 감마 곡선 + 카메라 감마 보정 = 최종시청상태
 7. ![image](https://user-images.githubusercontent.com/90343486/135307314-043e48aa-633c-45f7-99e1-1fd3db71ee52.png)
-8. 출저 https://blog.daum.net/trts1004/12109543 , https://ko.eyewated.com/%EA%B0%90%EB%A7%88-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B4%EB%A9%B0-%EC%82%AC%EC%A7%84%EC%97%90%EC%84%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%82%AC%EC%9A%A9%EB%90%A9%EB%8B%88%EA%B9%8C/ , https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=happynano&logNo=220433057440
+8. 출처 https://blog.daum.net/trts1004/12109543 , https://ko.eyewated.com/%EA%B0%90%EB%A7%88-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B4%EB%A9%B0-%EC%82%AC%EC%A7%84%EC%97%90%EC%84%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%82%AC%EC%9A%A9%EB%90%A9%EB%8B%88%EA%B9%8C/ , https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=happynano&logNo=220433057440
 ### CRT
 > CRT = Cathode-Ray Tube의 약자. 브라운관 방식의 디스플레이 장치이다.
 1. ![image](https://user-images.githubusercontent.com/90343486/135309425-d7159b27-98b2-4219-b942-76cc27d1645b.png)
@@ -91,4 +92,13 @@ Color space(색공간) 무엇인가.
 2. 전기를 많이먹는다.
 3. 수명이 짧다. 전자총의 출력과 형광물질의 양이 달라 주기적으로 캘리브래이션 해주어야 한다
 4. 눈위 십게 피로해진다.
-5.  출저 https://lucycle.tistory.com/44
+5.  출처 https://lucycle.tistory.com/44
+### Linear Workflow
+> 실제 세상의 빛은 Linear로 작용한다. 빛의 양은 광원들의 빛의 양을 합친 값이며 실제 세상에서는 input(전압 공급)이 output(이미지 환산)과 일정하다. 그것을 linear 이다.
+> Linear Workflow(선형 워크플로우)는 모든 그래픽 작업이 선형 색 공간(Linear Color Space)에서 이루어지는 방식을 말한다.
+1. jppeg 같은 이미지 파일들은 이미 감마 보정을 통해 발게 만들어진 이미지이다. 이런 이미지들을 임의로 수정, 효과를 적용하면 왜곡된 결과가 나온다
+2. 선형 색 공간에서 작업하는게 권장 되며,이를 리니어 워크플로우라고 한다.
+3. 리니어 워크플로우에서 작업된 이미지는 마지막 랜더시 다시 감마 보정을 통해 밝게 만들어지고, 렌더된 이미지는 디스플레이 장치에서 다시 어둡게 조정되어 우리가 보고자 하는 이미지로 출력된다.
+4. ![image](https://user-images.githubusercontent.com/90343486/135314008-27c25f2c-3be9-4160-af09-3b57bf6dcaa3.png)
+5. 출처 https://frauniemand.tistory.com/8 , https://kyoungwhankim.github.io/ko/blog/color_linearworkflow/
+
