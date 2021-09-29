@@ -74,3 +74,21 @@ Color space(색공간) 무엇인가.
 6.  CRT(음극으로 부터 방출된 전자의 흐름 선관) 감마 곡선 + 카메라 감마 보정 = 최종시청상태
 7. ![image](https://user-images.githubusercontent.com/90343486/135307314-043e48aa-633c-45f7-99e1-1fd3db71ee52.png)
 8. 출저 https://blog.daum.net/trts1004/12109543 , https://ko.eyewated.com/%EA%B0%90%EB%A7%88-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B4%EB%A9%B0-%EC%82%AC%EC%A7%84%EC%97%90%EC%84%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%82%AC%EC%9A%A9%EB%90%A9%EB%8B%88%EA%B9%8C/ , https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=happynano&logNo=220433057440
+### CRT
+> CRT = Cathode-Ray Tube의 약자. 브라운관 방식의 디스플레이 장치이다.
+1. ![image](https://user-images.githubusercontent.com/90343486/135309425-d7159b27-98b2-4219-b942-76cc27d1645b.png)
+2. 그림처럼 전자총에서 전자를 발사하여 화면에 발려진 형광물질과 충돌하여 빛을 낸다.
+3. 전자총에선 RGB의 3가지 색이 나오고 전자석을 사용하여 원하는 위치로 전자를 보낸다.
+4. 원하는 위치와 원하는 강도로 빛을 보내 화면상에 나온다.
+### CRT 모니터 장점과 단점
+##### 장점
+1. 반응속도 빠르다.
+2. 색재현률이 좋다.
+3. 저해상도에서 픽셀이 크게 보이거나 심하게 뭉게지지 않는다.
+4. 색상왜곡이 적고, 색상이 화사하다.
+##### 단점
+1. 부피가 크고 무겁다.
+2. 전기를 많이먹는다.
+3. 수명이 짧다. 전자총의 출력과 형광물질의 양이 달라 주기적으로 캘리브래이션 해주어야 한다
+4. 눈위 십게 피로해진다.
+5.  출저 https://lucycle.tistory.com/44
