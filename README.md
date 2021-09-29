@@ -113,7 +113,7 @@ Color space(색공간) 무엇인가.
 ### ACEScg
 > ACES의 색공간을 말한다. 
 > 인간의 가시영역을 나타내는 CIE XYZ 1931 과
-> 디지털 시네마 환경 영역을 나타내는 sRGB(일반 모니터), Rec.2020(UHD 포맷), DCI-P3(극장용 프로젝터), HDTV Rec.709, UHDTV Rec.202 등의 색공간을 포함한다.
+> 디지털 시네마 환경 영역을 나타내는 sRGB(일반 모니터), Rec.709(HDTV 포맷) Rec.2020(UHDTV 포맷), DCI-P3(극장용 프로젝터), 등의 색공간을 포함한다.
 > CIE 도표는 인간이 볼 수 있는 모든 색 영역을 나타낸다.
 1. ![image](https://user-images.githubusercontent.com/90343486/135316594-9bf4d2a2-7a40-4ade-8d3b-8a32821690c3.png)
 2. ACEScg 색 영역은 디지털 구현된 모든 색 공간을 커버한다. 어떤 카메라로 찍든간에 ACES 색상 표준에 넣기만 하면 모든 팀이 같은 색 환경에서 작업이 가능하여 편하다.
