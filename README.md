@@ -99,6 +99,7 @@ Color space(색공간) 무엇인가.
 1. jppeg 같은 이미지 파일들은 이미 감마 보정을 통해 발게 만들어진 이미지이다. 이런 이미지들을 임의로 수정, 효과를 적용하면 왜곡된 결과가 나온다
 2. 선형 색 공간에서 작업하는게 권장 되며,이를 리니어 워크플로우라고 한다.
 3. 리니어 워크플로우에서 작업된 이미지는 마지막 랜더시 다시 감마 보정을 통해 밝게 만들어지고, 렌더된 이미지는 디스플레이 장치에서 다시 어둡게 조정되어 우리가 보고자 하는 이미지로 출력된다.
-4. ![image](https://user-images.githubusercontent.com/90343486/135314008-27c25f2c-3be9-4160-af09-3b57bf6dcaa3.png)
-5. 출처 https://frauniemand.tistory.com/8 , https://kyoungwhankim.github.io/ko/blog/color_linearworkflow/
+4. ![image](https://user-images.githubusercontent.com/90343486/135314272-c32148d1-152c-4857-8368-2adb93932e19.png)
+5. ![image](https://user-images.githubusercontent.com/90343486/135314310-ba9f5fd2-a7a4-4fd0-9774-e0604b74626f.png)
+6. 출처 https://frauniemand.tistory.com/8 , https://kyoungwhankim.github.io/ko/blog/color_linearworkflow/
 
