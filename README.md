@@ -102,4 +102,21 @@ Color space(색공간) 무엇인가.
 4. ![image](https://user-images.githubusercontent.com/90343486/135314272-c32148d1-152c-4857-8368-2adb93932e19.png)
 5. ![image](https://user-images.githubusercontent.com/90343486/135314310-ba9f5fd2-a7a4-4fd0-9774-e0604b74626f.png)
 6. 출처 https://frauniemand.tistory.com/8 , https://kyoungwhankim.github.io/ko/blog/color_linearworkflow/
+### ACES (AP0)
+> Academy Color Encoding System으로 불려지며, 시스템은 색상을 관리하기 위한 업계의 차세대 표준 기술이다. 
+> 디지털 영상을 만드는 카메라는 다양한 종류만큼 다양한 색역 계조범위를 가지고있는데 그것을 통합된 색공간 안에서 할 수 있도록하는 기술이다.
+##### 장점
+1. 색보정 불확실성을 줄인다
+2. 넓은 색공간의 색심도를 가진다. 
+3. 자유로운 창작 환경을 제공한다.
+4. 인간이 볼 수 없는 공간까지 고려한 색공간이있다.
+### ACEScg
+> ACES의 색공간을 말한다. 
+> 인간의 가시영역을 나타내는 CIE XYZ 1931 과
+> 디지털 시네마 환경 영역을 나타내는 sRGB(일반 모니터), Rec.2020(UHD 포맷), DCI-P3(극장용 프로젝터), HDTV Rec.709, UHDTV Rec.202 등의 색공간을 포함한다.
+> CIE 도표는 인간이 볼 수 있는 모든 색 영역을 나타낸다.
+1. ![image](https://user-images.githubusercontent.com/90343486/135315719-3dfb8a76-c192-4996-88c3-48ca9a244fd3.png)
+2. ACEScg 색 영역은 디지털 구현된 모든 색 공간을 커버한다. 어떤 카메라로 찍든간에 ACES 색상 표준에 넣기만 하면 모든 팀이 같은 색 환경에서 작업이 가능하여 편하다.
+3. ![image](https://user-images.githubusercontent.com/90343486/135316594-9bf4d2a2-7a40-4ade-8d3b-8a32821690c3.png)
+4. 출저 https://m.blog.naver.com/loveandpic/221221809613 , https://artnfear.com/entry/ACES-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%B4%EB%9E%80
 
