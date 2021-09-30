@@ -121,8 +121,9 @@ Color space(색공간) 무엇인가.
 ### Premultiplied Alpha
 > Premultiplied는 RGB 값이 이미 합쳐저 파일에 저장 되기 때문에 일반 뷰어로 원본이미지와 같은 이미지로 볼 수 있습니다.
 > 채널 구성에는 매트 된 RGB + AlPHA 채널이 없어도 문제가 없습니다.
+> 컴포지스트 플에서 배경 색을 설정하여, 블랙이나, 화이트를 설정가능하고 배경과의 문제를 해결할 수 있다.
 ### Straight Alpha
 > 특정 뷰어가 아닌 , 일반적인 뷰어로 보면 RGB가 알파에 매트화가 안되어있고, 분리되어 있지않습니다.
 > 반투명 상태의 값에서 원본에 없는 RGB 값이 보이거나 제거되어 보입니다.
 > 매트 된 RGB + Alpha 채널이 꼭 있어야합니다.
-> 출저 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=tjsdk666&logNo=120106782734
+1. 출저 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=tjsdk666&logNo=120106782734
