@@ -130,3 +130,8 @@ Color space(색공간) 무엇인가.
 4. RGB 채널은 그대로 유지되며 매트가 지정되지 않거나 지정된 색상으로 미리 곱해지지 않습니다.
 5. ![image](https://user-images.githubusercontent.com/90343486/135484129-7a2da146-1117-4217-8bdc-c5e0132837e3.png)
 6. 출저 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=tjsdk666&logNo=120106782734, https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=micocu&logNo=220468841485
+### Rotoscoping
+> 애니메이션 기법 또는 VFX 기법의 하나다. 
+> 촬영한 영상의 일부를 잘라내는 것이다.
+1. 로토스코핑을 통해 불필요한 개체를 제거하거나 움직이는 요소를 동영상 푸티지에 추가할 수 있습니다
+2. 생동감을 나타내고 합성할 때 여러 클립을 효율적으로 결합합니다.
