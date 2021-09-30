@@ -117,7 +117,7 @@ Color space(색공간) 무엇인가.
 > CIE 도표는 인간이 볼 수 있는 모든 색 영역을 나타낸다.
 1. ![image](https://user-images.githubusercontent.com/90343486/135316594-9bf4d2a2-7a40-4ade-8d3b-8a32821690c3.png)
 2. ACEScg 색 영역은 디지털 구현된 모든 색 공간을 커버한다. 어떤 카메라로 찍든간에 ACES 색상 표준에 넣기만 하면 모든 팀이 같은 색 환경에서 작업이 가능하여 편하다.
-3. 출저 https://m.blog.naver.com/loveandpic/221221809613 , https://artnfear.com/entry/ACES-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%B4%EB%9E%80
+3. 출처 https://m.blog.naver.com/loveandpic/221221809613 , https://artnfear.com/entry/ACES-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%B4%EB%9E%80
 ### Premultiplied Alpha
 1. Premultiplied는 RGB 값이 이미 합쳐저 파일에 저장 되기 때문에 일반 뷰어로 원본이미지와 같은 이미지로 볼 수 있습니다.
 2.  채널 구성에는 매트 된 RGB + AlPHA 채널이 없어도 문제가 없습니다. RGB로 바로 보아도 알파가 적용된 이미지 형태입니다.
@@ -129,9 +129,10 @@ Color space(색공간) 무엇인가.
 3. 매트 된 RGB + Alpha 채널이 꼭 있어야합니다.
 4. RGB 채널은 그대로 유지되며 매트가 지정되지 않거나 지정된 색상으로 미리 곱해지지 않습니다.
 5. ![image](https://user-images.githubusercontent.com/90343486/135484129-7a2da146-1117-4217-8bdc-c5e0132837e3.png)
-6. 출저 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=tjsdk666&logNo=120106782734, https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=micocu&logNo=220468841485
+6. 출처 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=tjsdk666&logNo=120106782734, https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=micocu&logNo=220468841485
 ### Rotoscoping
 > 애니메이션 기법 또는 VFX 기법의 하나다. 
 > 촬영한 영상의 일부를 잘라내는 것이다.
 1. 로토스코핑을 통해 불필요한 개체를 제거하거나 움직이는 요소를 동영상 푸티지에 추가할 수 있습니다
 2. 생동감을 나타내고 합성할 때 여러 클립을 효율적으로 결합합니다.
+3. 출처 https://namu.wiki/w/%EB%A1%9C%ED%86%A0%EC%8A%A4%EC%BD%94%ED%95%91
