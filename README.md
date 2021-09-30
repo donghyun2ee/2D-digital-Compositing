@@ -136,3 +136,15 @@ Color space(색공간) 무엇인가.
 1. 로토스코핑을 통해 불필요한 개체를 제거하거나 움직이는 요소를 동영상 푸티지에 추가할 수 있습니다
 2. 생동감을 나타내고 합성할 때 여러 클립을 효율적으로 결합합니다.
 3. 출처 https://namu.wiki/w/%EB%A1%9C%ED%86%A0%EC%8A%A4%EC%BD%94%ED%95%91
+### Keying
+> 두 개의 꽉 찬 프레임 영상을 합치는 비공식 용어로, 빛, 색의 값으로 정보를 구분해 낸다.
+### Chroma keying
+> 한 영상(A) 안에 다른 영상(B)과 겹처 색을 빼는 기술이다. 색상차이를 이용하여 피사체를 다른 화면에 합성하는 기법.
+> 녹색과 청색이 피부나 머리카락의 색과 최대로 겹치지 않기때문에 자주 사용한다.
+1. ![image](https://user-images.githubusercontent.com/90343486/135488586-2e5eb3f8-ab2d-4638-b7ee-adcef4932a4a.png)
+2. 출처 http://news.samsungdisplay.com/15102/
+### Tracking / Match move
+> 카메라를 사용하여 시간이 지남에 따라 움직이는 물체를 찾는 과정, 변화를 추적합니다.
+> 사용된 카메라의 3D시점, 줌, 내부 파라미터, 왜곡 등 카메라에 대한 모든 것을 복원 및 추적합니다.
+1. ![image](https://user-images.githubusercontent.com/90343486/135489100-1d9facad-8834-4b5d-ad0f-5334531b58b3.png)
+2. 출처 https://bskyvision.com/278 , https://darkpgmr.tistory.com/98
