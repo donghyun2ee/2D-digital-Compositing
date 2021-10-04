@@ -123,13 +123,15 @@ Color space(색공간) 무엇인가.
 2.  채널 구성에는 매트 된 RGB + AlPHA 채널이 없어도 문제가 없습니다. RGB로 바로 보아도 알파가 적용된 이미지 형태입니다.
 3. 컴포지스트 플에서 배경 색을 설정하여, 블랙이나, 화이트를 설정가능하고 배경과의 문제를 해결할 수 있다.
 4. 매트 방식으로 처리되어 모든 처리 방식이 가시화되어 저장됩니다.
+5. 누크 같은것.  이미지를 지우면 알파채널로만 인식하고 지워진다.
 ### Straight Alpha
 1. 특정 뷰어가 아닌 , 일반적인 뷰어로 보면 RGB가 알파에 매트화가 안되어있고, RGB색상과 alpha값을 그대로 받아 옵니다.
 2. 반투명 상태의 값에서 원본에 없는 RGB 값이 보이거나 제거되어 보입니다. RGB색상 따로 알파 채널 따로 모두 따로 저장되어있습니다.
 3. 매트 된 RGB + Alpha 채널이 꼭 있어야합니다.
 4. RGB 채널은 그대로 유지되며 매트가 지정되지 않거나 지정된 색상으로 미리 곱해지지 않습니다.
-5. ![image](https://user-images.githubusercontent.com/90343486/135484129-7a2da146-1117-4217-8bdc-c5e0132837e3.png)
-6. 출처 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=tjsdk666&logNo=120106782734, https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=micocu&logNo=220468841485
+5. 포토샵 . 같은것 사용자가 알파채널을 관리할 수없다. 투명한건 투명한거고 
+6. ![image](https://user-images.githubusercontent.com/90343486/135484129-7a2da146-1117-4217-8bdc-c5e0132837e3.png)
+7. 출처 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=tjsdk666&logNo=120106782734, https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=micocu&logNo=220468841485
 ### Rotoscoping
 > 애니메이션 기법 또는 VFX 기법의 하나다. 
 > 촬영한 영상의 일부를 잘라내는 것이다.
