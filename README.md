@@ -190,7 +190,7 @@ Color space(색공간) 무엇인가.
 11. merge(screen) A+B -AB
 12. merge(under) A(1-b)+B = B의 알파값을 빼서 A와 곱한다음 B랑 더하는 값.
 13. ![image](https://user-images.githubusercontent.com/90343486/136222159-4a293184-4de3-4e84-b454-3ec798900f52.png)
-14. 출처 https://blog.naver.com/PostView.naver?blogId=s3dcomp&logNo=70134631359
+14. 출처 https://blog.naver.com/PostView.naver?blogId=s3dcomp&logNo=70134631359 , https://learn.foundry.com/nuke/13.0/content/comp_environment/merging/merge_operations.html
 ### Shuffle
 > RGB 값과 Alpha 채널 등을 없애거나 생성시키거나 임의로 변경할 수 있는 기능.
 ### Tracking / Match move
