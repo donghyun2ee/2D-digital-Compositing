@@ -132,6 +132,8 @@ Color space(색공간) 무엇인가.
 5. 포토샵 . 같은것 사용자가 알파채널을 관리할 수없다. 투명한건 투명한거고 
 6. ![image](https://user-images.githubusercontent.com/90343486/135484129-7a2da146-1117-4217-8bdc-c5e0132837e3.png)
 7. 출처 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=tjsdk666&logNo=120106782734, https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=micocu&logNo=220468841485
+-----------------------------------------------------------
+## 4Week
 ### Rotoscoping
 > 애니메이션 기법 또는 VFX 기법의 하나다. 
 > 촬영한 영상의 일부를 잘라내는 것이다.
