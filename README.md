@@ -169,6 +169,30 @@ Color space(색공간) 무엇인가.
 1. 내부 피라미터 =  초점거리 , 주점 , 비대칭계수 가 있다.
 2. ![image](https://user-images.githubusercontent.com/90343486/136217264-72a98286-8cae-44fc-b8cb-27fc0cddd455.png)
 3. 출처 https://darkpgmr.tistory.com/32
+### Merge
+> Merge 노드는 다중 이미지를 레이어링 할때 쓰인다. 다양한 결합 연산(Merge Operation)으로 원하는 결과를 얻을 수 있다.
+> A 와 B의 Input을 통해 데이터 연산을통해서 Output을 만든다.
+> 매트합성과 블랜딩 합성이 주 분류로 이루며 RGB값에 의한 연산한다.
+> 이미지 A를 B에다가 합성한다. A to B  대부분 배경을 이루는것이 B 그위에 올리는것이 A로 표현이 된다.
+> 알파값이 중요하다.
+> Alpha가 있는 영역은 1, 없는 영역은 0
+>  A- Input 된 이미지  a-  A의 알파값  
+1. merge(plus) A+B 더하기
+2. merge(minus) A-B 빼기
+3. merge(multiply) AB 곱하기
+4. merge(divide) A/B if A<0 and B<0 나누기
+5. merge(average) (A+B)/2 A,B 두 이미지의 평균값. 결과는 원본보다 어두워진다. 
+6. merge(over) A + B(1-a) 기본적으로 A가 premultiplied image.
+7. merge(in) AB= B의 알파와 겹치는 이미지 A의 부분만 보여준다.
+8. merge(mask) marge in 과 반대 개념.
+9. merge(copy)A = A 연결된 이미지만 보여준다.
+10. merge(from) A form b 이면 이미지 b에서 a를 뺀 영역만 보여준다.
+11. merge(screen) A+B -AB
+12. merge(under) A(1-b)+B = B의 알파값을 빼서 A와 곱한다음 B랑 더하는 값.
+13. ![image](https://user-images.githubusercontent.com/90343486/136222159-4a293184-4de3-4e84-b454-3ec798900f52.png)
+14. 출처 https://blog.naver.com/PostView.naver?blogId=s3dcomp&logNo=70134631359
+### Shuffle
+> RGB 값과 Alpha 채널 등을 없애거나 생성시키거나 임의로 변경할 수 있는 기능.
 ### Tracking / Match move
 > 카메라를 사용하여 시간이 지남에 따라 움직이는 물체를 찾는 과정, 변화를 추적합니다.
 > 사용된 카메라의 3D시점, 줌, 내부 파라미터, 왜곡 등 카메라에 대한 모든 것을 복원 및 추적합니다.
