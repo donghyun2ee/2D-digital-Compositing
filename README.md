@@ -174,7 +174,7 @@ Color space(색공간) 무엇인가.
 > A 와 B의 Input을 통해 데이터 연산을통해서 Output을 만든다.
 > 매트합성과 블랜딩 합성이 주 분류로 이루며 RGB값에 의한 연산한다.
 > 이미지 A를 B에다가 합성한다. A to B  대부분 배경을 이루는것이 B 그위에 올리는것이 A로 표현이 된다.
-> 알파값이 중요하다.
+> 알파값이 중요하다. 곱셈 덧셈 나눗셈 뺄셈 같은것 수학적인 계산이 있다.
 > Alpha가 있는 영역은 1, 없는 영역은 0
 >  A- Input 된 이미지  a-  A의 알파값  
 1. merge(plus) A+B 더하기
@@ -193,6 +193,8 @@ Color space(색공간) 무엇인가.
 14. 출처 https://blog.naver.com/PostView.naver?blogId=s3dcomp&logNo=70134631359 , https://learn.foundry.com/nuke/13.0/content/comp_environment/merging/merge_operations.html
 ### Shuffle
 > RGB 값과 Alpha 채널 등을 없애거나 생성시키거나 임의로 변경할 수 있는 기능.
+### Invert
+> 알파값 반전시키는 것.
 ### Tracking / Match move
 > 카메라를 사용하여 시간이 지남에 따라 움직이는 물체를 찾는 과정, 변화를 추적합니다.
 > 사용된 카메라의 3D시점, 줌, 내부 파라미터, 왜곡 등 카메라에 대한 모든 것을 복원 및 추적합니다.
