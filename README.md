@@ -157,6 +157,18 @@ Color space(색공간) 무엇인가.
 2. 키잉은 컴 포지팅 응용 프로그램 내부에서뿐만 아니라 실시간으로 발생할 수도 있다.
 3. ![image](https://user-images.githubusercontent.com/90343486/135488586-2e5eb3f8-ab2d-4638-b7ee-adcef4932a4a.png)
 4. 출처 http://news.samsungdisplay.com/15102/ , https://www.leyong.blog/rotokeying/
+### Checkerboard
+> 검은색과 흰색 또는 적색과 검은색의 네모가 번갈아 격자로 배열된 모양이며, 체스 게임판의 체크 모양을 나타낸다.
+> 체커보드 같은 패턴을 가진 물체를 이용하여 캘리브레이션의 정확도 및 효율성을 높일 수 있다.
+1. ![image](https://user-images.githubusercontent.com/90343486/136217482-a2ca47b5-030c-434f-a110-66482f9c1784.png)
+2. 출처 http://journal.ksae.org/xml/20100/20100.pdf
+### Camera Calibration
+> 우리가 실제 눈으로 보는 세상은 3차원이다. 하지만 카메라 상에서는 2차원의 이미지이다. 우리는 3차원 점들이 이미지 상에서 어디에 맺히는지 생각하면
+> 영상 찍을 당시 카메라의 위치와 방향에 의해 결정된다. 실제 이미지는 렌즈와 이미지 거리 등 크게 영향을 받는다.
+> 그래서 3차원 공간좌표 값, 피라미터값을 구하고 영향(이슈)받는걸 제거하는 과정을 카메라 캘리브레이션이라 한다.
+1. 내부 피라미터 =  초점거리 , 주점 , 비대칭계수 가 있다.
+2. ![image](https://user-images.githubusercontent.com/90343486/136217264-72a98286-8cae-44fc-b8cb-27fc0cddd455.png)
+3. 출처 https://darkpgmr.tistory.com/32
 ### Tracking / Match move
 > 카메라를 사용하여 시간이 지남에 따라 움직이는 물체를 찾는 과정, 변화를 추적합니다.
 > 사용된 카메라의 3D시점, 줌, 내부 파라미터, 왜곡 등 카메라에 대한 모든 것을 복원 및 추적합니다.
