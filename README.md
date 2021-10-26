@@ -147,6 +147,7 @@ Color space(색공간) 무엇인가.
 4. 영상과 대상 물체의 모든 부분을 분석해야하며, 움직임의 요소에 따른 개체를 분할하는 위치를 정해야한다.
 5. ![image](https://user-images.githubusercontent.com/90343486/136214402-61a0c5a6-44f7-42ba-b3b5-edb29e51d821.png)
 6. 출처 https://namu.wiki/w/%EB%A1%9C%ED%86%A0%EC%8A%A4%EC%BD%94%ED%95%91 , https://www.leyong.blog/rotokeying/
+## 5Week
 ### Keying (Chroma Keying)
 > 두 개의 꽉 찬 프레임 영상을 합치는 비공식 용어로, 빛, 색의 값으로 정보를 구분해 낸다.
 > 키잉은 요소를 더 빠르고 쉽게 분리 할 수있는 기술이다.
@@ -170,6 +171,7 @@ Color space(색공간) 무엇인가.
 1. 내부 피라미터 =  초점거리 , 주점 , 비대칭계수 가 있다.
 2. ![image](https://user-images.githubusercontent.com/90343486/136217264-72a98286-8cae-44fc-b8cb-27fc0cddd455.png)
 3. 출처 https://darkpgmr.tistory.com/32
+
 ### Merge
 > Merge 노드는 다중 이미지를 레이어링 할때 쓰인다. 다양한 결합 연산(Merge Operation)으로 원하는 결과를 얻을 수 있다.
 > A 와 B의 Input을 통해 데이터 연산을통해서 Output을 만든다.
@@ -196,11 +198,7 @@ Color space(색공간) 무엇인가.
 > RGB 값과 Alpha 채널 등을 없애거나 생성시키거나 임의로 변경할 수 있는 기능.
 ### Invert
 > 알파값 반전시키는 것.
-### Tracking / Match move
-> 카메라를 사용하여 시간이 지남에 따라 움직이는 물체를 찾는 과정, 변화를 추적합니다.
-> 사용된 카메라의 3D시점, 줌, 내부 파라미터, 왜곡 등 카메라에 대한 모든 것을 복원 및 추적합니다.
-1. ![image](https://user-images.githubusercontent.com/90343486/135489100-1d9facad-8834-4b5d-ad0f-5334531b58b3.png)
-2. 출처 https://bskyvision.com/278 , https://darkpgmr.tistory.com/98
+## 6Week
 ### Keyers
 ##### Utility
 루미넌스채널 rgb채널 등을 조절할 수 있다.
@@ -211,4 +209,9 @@ Color space(색공간) 무엇인가.
 ##### Difference
 A, B 두 이미지 간의 매트로 입력이된다.
 두 인풋의 알파 차이를 보는것 (포토샵 블랜딩모드랑 비슷함) 
-
+## 7Week
+### Tracking / Match move
+> 카메라를 사용하여 시간이 지남에 따라 움직이는 물체를 찾는 과정, 변화를 추적합니다.
+> 사용된 카메라의 3D시점, 줌, 내부 파라미터, 왜곡 등 카메라에 대한 모든 것을 복원 및 추적합니다.
+1. ![image](https://user-images.githubusercontent.com/90343486/135489100-1d9facad-8834-4b5d-ad0f-5334531b58b3.png)
+2. 출처 https://bskyvision.com/278 , https://darkpgmr.tistory.com/98
