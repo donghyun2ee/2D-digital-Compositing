@@ -200,6 +200,10 @@ Color space(색공간) 무엇인가.
 > 알파값 반전시키는 것.
 ## 6Week
 ### Keyers
+키어는 다 독립적인 형태를 가진다.
+1. 키라이트는 자동으로 스필제거를 해준다.
+2. IBK keyer - IBK Gizmo, IBK Colour 2개의 노드가 있다. IBK Colour에서 수치를 조절하여 클린 플레이트를 만들 수 있다. IBK Gizmo 통해서 테크닉을 조절할 수 있다.
+3. 출처 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=loveandpic&logNo=221064084942
 ##### Utility
 루미넌스채널 rgb채널 등을 조절할 수 있다.
 ##### Hue keyer
@@ -215,3 +219,13 @@ A, B 두 이미지 간의 매트로 입력이된다.
 > 사용된 카메라의 3D시점, 줌, 내부 파라미터, 왜곡 등 카메라에 대한 모든 것을 복원 및 추적합니다.
 1. ![image](https://user-images.githubusercontent.com/90343486/135489100-1d9facad-8834-4b5d-ad0f-5334531b58b3.png)
 2. 출처 https://bskyvision.com/278 , https://darkpgmr.tistory.com/98
+### NUKE tracking
+>누크의 카메라 트래커는 카메라 추적을 통해 원래 카메라와 이동이 일치하게 가상 카메라를 만들 수 있습니다.
+>Tracking 과 solve 를 통해 데이터를 추출해 낸다. 
+>트레킹이 된 데이터에서 AutoTracks 창의 error max , max error 을 통해 불완전한 데이터를 정리해준다.
+1. 1,2,3,4Points Tracking
+2. 1point 중심이 되는 하나의 포인트를 선택하여 카메라의 위치값 움직임을 포착할 수 있다.
+3. 2points 두개의 점을 통해 하나의 선을 통해서 카메라의 위치값 과 회전값을 포착할 수 있다.
+4. 3points, 4points 3개, 4개의 점을 통해 면적을 만들고 카메라의 위치값, 회전값, 공간감(뎁스)를 포착할 수 있다.
+### 3D Camera tracker
+1. 하나의 가상의 공간에서 카메라를 생성하여 표현할 수 있다. 하나의 공간을 창조하여 카메라의 이동을 변경할 수있으며, 추가할 수 있다.
