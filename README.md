@@ -231,3 +231,15 @@ A, B 두 이미지 간의 매트로 입력이된다.
 1. 하나의 가상의 공간에서 카메라를 생성하여 표현할 수 있다. 하나의 공간을 창조하여 카메라의 이동을 변경할 수있으며, 추가할 수 있다.
 2. 공간을 만들어 내면서 focus length 뎁스, 위치값에 대한 키포인트를 나타내어 찾을 수 있다.
 3. ![image](https://user-images.githubusercontent.com/90343486/139528627-1a342b45-d6cd-4584-b77a-b0635fe86b74.png)
+## 9Week
+### Visual Language
+> 시각언어(Visual Languge)는 시각적 요소들을 이용한 소통 체계를 말한다.
+> 한 개념을 각색하고 소통하게 하는 이미지로 시각 언어의 쓰임을 가정할 수 있다.
+> 사람들의 생각을 '구두화'하는 것처럼, 시각 언어는 그것을 '시각화'할 수 있다.
+1. 대상을 통해서 시각적인 인식을 하게 끔 하여 뜻과 표현을 상상할 수 있도록 하는것이다.
+2. 출처 https://ko.wikipedia.org/wiki/%EC%8B%9C%EA%B0%81%EC%96%B8%EC%96%B4
+#### pictogram
+1. 그림문자이며 그림과 전달(telegram)의 합성어이며
+2. 의미하고자 하는 바를 직접적으로 묘사한 그림을 통해 의미를 전달하는 표의문자이자 시각 디자인으로 사용된다.
+3. ![image](https://user-images.githubusercontent.com/90343486/141686987-26d5fc96-ce42-48f4-96e7-df20e8b2f12a.png)
+4. 출처 https://ko.wikipedia.org/wiki/%EA%B7%B8%EB%A6%BC%EB%AC%B8%EC%9E%90
