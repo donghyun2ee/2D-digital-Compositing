@@ -277,4 +277,12 @@ A, B 두 이미지 간의 매트로 입력이된다.
 > 기기가 의도하는 바와 상관없이 전류가 흘러 불필요한 에너지인 전자파 노이즈가 발생한다.
 1. ![image](https://user-images.githubusercontent.com/90343486/142590206-9cd0c76b-6061-4dfb-a7d1-bd75ca13a17b.png)
 2. 출처 https://www.devicemart.co.kr/goods_process/get_html_to_string?url=/data/category/category_tech/00030005/00030005.html
-3. 
+### aperture
+>조리개를 뜻한다.
+>눈의 동공과 같은 기능을한다. 빛이 통과하는 넓이를 조절하는 기능
+>렌즈의 유효 직경을 변화시켜 주는 역할을 한다. 빛이 통과하는 ‘공간’을 가지고 빛의 양을 컨트롤하는 기능을 한다.
+>F값이라 부른다. 
+>조리개가 넓어지면 피사계 심도가 더 작아지며, 조리개가 좁아지면 피사계 심도가 더 커진다
+>결과적으로 "초점이 맞는 범위"를 조절해준다.
+1. ![image](https://user-images.githubusercontent.com/90343486/142590961-807dff2b-fb7e-417f-9abe-f380d0f28788.png)
+2. 출처 https://blog.daum.net/sansu3160/172, https://tigerhelper.tistory.com/entry/%EC%B9%B4%EB%A9%94%EB%9D%BC-%EC%A1%B0%EB%A6%AC%EA%B0%9C%EA%B0%80-%EB%AD%94%EA%B0%80%EC%9A%94-%EC%A1%B0%EB%A6%AC%EA%B0%9C%EC%9D%98-%EC%97%AD%ED%95%A0%EC%9D%80
