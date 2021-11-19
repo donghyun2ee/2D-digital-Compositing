@@ -286,3 +286,11 @@ A, B 두 이미지 간의 매트로 입력이된다.
 >결과적으로 "초점이 맞는 범위"를 조절해준다.
 1. ![image](https://user-images.githubusercontent.com/90343486/142590961-807dff2b-fb7e-417f-9abe-f380d0f28788.png)
 2. 출처 https://blog.daum.net/sansu3160/172, https://tigerhelper.tistory.com/entry/%EC%B9%B4%EB%A9%94%EB%9D%BC-%EC%A1%B0%EB%A6%AC%EA%B0%9C%EA%B0%80-%EB%AD%94%EA%B0%80%EC%9A%94-%EC%A1%B0%EB%A6%AC%EA%B0%9C%EC%9D%98-%EC%97%AD%ED%95%A0%EC%9D%80
+### Depth of field
+>피사계 심도를 말한다."초점이 맞는 거리"라고 할 수 있다.
+>심도가 깊으면 원거리에서 근거리까지 초첨이 모두 선명한 상태로 촬영된다. (Pan Focus)
+>심도가 얕으면 피사체의 일부분만 선명하게 촬영된다. (out of focus)
+#### Depth of field 3요소
+1. 조리개 값(f), 2. 초점거리, 3. 피사체와 거리
+1. ![image](https://user-images.githubusercontent.com/90343486/142591666-0389689e-0c2c-42ff-89ba-4323f8118c30.png)
+2. 출처 https://fantasy297.tistory.com/9 https://whiteknight3672.tistory.com/190 https://blog.daum.net/ayh12123/9148 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=cinetaker&logNo=220264321194
