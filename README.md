@@ -243,3 +243,38 @@ A, B 두 이미지 간의 매트로 입력이된다.
 2. 의미하고자 하는 바를 직접적으로 묘사한 그림을 통해 의미를 전달하는 표의문자이자 시각 디자인으로 사용된다.
 3. ![image](https://user-images.githubusercontent.com/90343486/141686987-26d5fc96-ce42-48f4-96e7-df20e8b2f12a.png)
 4. 출처 https://ko.wikipedia.org/wiki/%EA%B7%B8%EB%A6%BC%EB%AC%B8%EC%9E%90
+### Contrast
+> 대비와 비교를 나타낸다. 물체를 다른 물체와 배경과 구별할 수 있게 만들어주는 시각적인 특성의 차이
+> 차이가 클수록 콘트라스트가 강하다
+> 피사체를 돋보이게 할 수있고, 강한이미지, 딱딱한 느낌을 표현할 수 있다.
+> 반면 너무 콘트라스트가 강하면 계조가 풍부하게 보이지 않는다.
+1. 출처 https://ko.wikipedia.org/wiki/%EB%8C%80%EB%B9%84_(%EA%B7%B8%EB%A6%BC)
+#### Value Contrast
+1. 명도대비를 말한다.
+2. 밝기가 다른 두 색이 서로 영향을 받아 밝은 색은 더 밝게, 어두운 색은 더 어둡게 보이는 현상.
+3. ![image](https://user-images.githubusercontent.com/90343486/142588150-31a9f6a8-16ac-494a-bc70-7d29520a2907.png)
+4. 출처 https://ys0317.tistory.com/63
+#### sharpness 
+1. 선예도, 선명도를 말한다.
+2. 선예도는 사진의 디테일이 얼마나 선명한지를 나타내며 질감을 강조하기 위한 가장 중요한 요소이다.
+3. 카메라와 렌즈, 확대배율, 사진을 보는 거리 가 중요하다.
+4. 첨예도(Acutance), 해상도(Resolution)과 관계가 있다.
+5. ![image](https://user-images.githubusercontent.com/90343486/142589541-f14cf44c-1292-4424-babc-69527d706d02.png)
+#### 첨예도(Acutance)
+> 경계선에서 색이 얼마나 정확하고 순간적으로 변하는지 나타내는것.
+> 첨예도가 높으면 경계선이 명확하다.
+1. ![image](https://user-images.githubusercontent.com/90343486/142589452-9e2fc55f-4bee-4638-83c9-c65ca01ded56.png)
+#### 해상도(Resolution)
+> 근접한 선들을 구분해내는 카메라의 능력
+> 해상도가 높으면 더욱 더 가는 선들을 구분할 수 있다.
+> 얼마나 많은 것을 보여줄 수 있는가를 말한다. 디테일, 세밀하고, 자세하게 보여주는가?
+1. ![image](https://user-images.githubusercontent.com/90343486/142589476-dae04829-eb5d-4522-8f65-c19102362179.png)
+2. 출처 https://blog.daum.net/usstory/5264429, https://m.blog.naver.com/PostView.naver, isHttpsRedirect=true&blogId=velocity70&logNo=100019894586
+#### Noise
+> System을 방해하는 모든 전기 전자적인 요인을 말한다.
+> 인위적 제어가 어려워 자연현상에서 나타나는 아주 작은 장해에도 민감하게 반응한다.
+> 전기 전자기기에 전류가 유입되면, 이 전류 주위에 전계와 자계가 유도되고 또한 전위차에 의해 공간이 생긴 전계는 시간적으로 변화하면서 주위에 자계가 발생한다.
+> 기기가 의도하는 바와 상관없이 전류가 흘러 불필요한 에너지인 전자파 노이즈가 발생한다.
+1. ![image](https://user-images.githubusercontent.com/90343486/142590206-9cd0c76b-6061-4dfb-a7d1-bd75ca13a17b.png)
+2. 출처 https://www.devicemart.co.kr/goods_process/get_html_to_string?url=/data/category/category_tech/00030005/00030005.html
+3. 
