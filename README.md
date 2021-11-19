@@ -254,7 +254,7 @@ A, B 두 이미지 간의 매트로 입력이된다.
 2. 밝기가 다른 두 색이 서로 영향을 받아 밝은 색은 더 밝게, 어두운 색은 더 어둡게 보이는 현상.
 3. ![image](https://user-images.githubusercontent.com/90343486/142588150-31a9f6a8-16ac-494a-bc70-7d29520a2907.png)
 4. 출처 https://ys0317.tistory.com/63
-#### sharpness 
+#### Sharpness 
 1. 선예도, 선명도를 말한다.
 2. 선예도는 사진의 디테일이 얼마나 선명한지를 나타내며 질감을 강조하기 위한 가장 중요한 요소이다.
 3. 카메라와 렌즈, 확대배율, 사진을 보는 거리 가 중요하다.
@@ -277,7 +277,7 @@ A, B 두 이미지 간의 매트로 입력이된다.
 > 기기가 의도하는 바와 상관없이 전류가 흘러 불필요한 에너지인 전자파 노이즈가 발생한다.
 1. ![image](https://user-images.githubusercontent.com/90343486/142590206-9cd0c76b-6061-4dfb-a7d1-bd75ca13a17b.png)
 2. 출처 https://www.devicemart.co.kr/goods_process/get_html_to_string?url=/data/category/category_tech/00030005/00030005.html
-### aperture
+### Aperture
 >조리개를 뜻한다.
 >눈의 동공과 같은 기능을한다. 빛이 통과하는 넓이를 조절하는 기능
 >렌즈의 유효 직경을 변화시켜 주는 역할을 한다. 빛이 통과하는 ‘공간’을 가지고 빛의 양을 컨트롤하는 기능을 한다.
