@@ -338,14 +338,14 @@ A, B 두 이미지 간의 매트로 입력이된다.
 1. 출처 https://mogl3d.tistory.com/60, https://frauniemand.tistory.com/4
 ### Deep Compositing
 #### Deep
-> 딥 컴포지션은 시각적 요소를 렌더링하고 작업하는 다른 방법이다.
 > 딥 이미지 합성은 디지털 이미지를 합성 하고 렌더링하는데에 일반적인 색상 및 불투명도 채널 외에도 깊이 개념을 보여준다.
-> 단일 Z 깊이를 정의하지 않는 렌더링된 이미지의 데이터 채널을 제공하는 것을 목표로 한다. Z-깊이 이미지는 특히 투명도를 다루는데에 특화되어 있다.
-> 합성과 다른 형식의 데이터를 사용하여 디지털 이미지를 합성하는 방법이며, 추가 깊이 데이터를 사용한다.
-> 높은 이미지 품질이 생성되며 처리하기 까다로운 아티팩트의 문제들을 해결한다.
->  2D 이미지를 가지고 깊이 있게 적절하게 합성할때 사용한다.
+1. 단일 Z 깊이를 정의하지 않는 렌더링된 이미지의 데이터 채널을 제공하는 것을 목표로 한다. 
+2. Z-깊이 이미지는 특히 투명도를 다루는데에 특화되어 있다.
+3. 합성과 다른 형식의 데이터를 사용하여 디지털 이미지를 합성하는 방법이며, 추가 깊이 데이터를 사용한다.
+4.높은 이미지 품질이 생성되며 처리하기 까다로운 아티팩트의 문제들을 해결한다.
+5. 2D 이미지를 가지고 깊이 있게 적절하게 합성할때 사용한다.
 >  
 >  ![image](https://user-images.githubusercontent.com/90343486/144740378-69e731f3-4d1c-4542-8595-6c4620632fb8.png)
 >  ![image](https://user-images.githubusercontent.com/90343486/144740382-51766e8a-5ee6-46dd-9183-7f327322c856.png)
-1. 출처 https://en.wikipedia.org/wiki/Deep_image_compositing, https://www.fxguide.com/fxfeatured/the-art-of-deep-compositing/, https://www.reddit.com/r/vfx/comments/1in6re/not_being_a_nuke_user_can_someone_explain_what/
+3. 출처 https://en.wikipedia.org/wiki/Deep_image_compositing, https://www.fxguide.com/fxfeatured/the-art-of-deep-compositing/, https://www.reddit.com/r/vfx/comments/1in6re/not_being_a_nuke_user_can_someone_explain_what/
 
