@@ -348,4 +348,22 @@ A, B 두 이미지 간의 매트로 입력이된다.
 >  ![image](https://user-images.githubusercontent.com/90343486/144740378-69e731f3-4d1c-4542-8595-6c4620632fb8.png)
 >  ![image](https://user-images.githubusercontent.com/90343486/144740382-51766e8a-5ee6-46dd-9183-7f327322c856.png)
 3. 출처 https://en.wikipedia.org/wiki/Deep_image_compositing, https://www.fxguide.com/fxfeatured/the-art-of-deep-compositing/, https://www.reddit.com/r/vfx/comments/1in6re/not_being_a_nuke_user_can_someone_explain_what/
-
+### Scanline render & Raytracing render Difference
+#### Scanline render
+1. 렌더링된 이미지의 모든 픽셀을 통해 카메라의 광선을 전달한다.
+2. 광선이 메쉬면을 가로지르는 경우 픽셀의 색상은 광원, 면의 선에 대한 각도, 해당 면에 대한 카메라의 각도 및 기타 정보에 따라 계산된다.
+3. 매체가 없으면 픽셀은 배경색을 가져온다.
+4. 렌더 속도가 매우 빠르다
+5. 차지하는 메모리의 양이 작아 이슈가 작다.
+6. 폴리곤과 함께 작동한다.
+7. 반사, 투명도, 굴절의 표현이 어렵다.
+8. 카메라에 보이는 물체를 제외하고는 모두 지워, 카메라 안에 위치한 물체만 뎁스 값에 따라 정렬한다.
+#### Raytracing render
+1. 장면의 광원을 분석하고 해당 조명에서 생성된 광선의 경로를 계산하여 컴퓨터가 최정 이미지를 생성하는 방식의 렌더러이다.
+2. 결과는 반사 및 화선을 포함하며 매우 사실적인 이미지를 나타낸다.
+3. 우리가 실제 세계에서 관찰한 것과 가까운 조명과 그림자이다.
+4. 흡수, 반사, 투명도, 반투명도, 굴절 특성을 포함하여 픽셀의 최종 음영을 계산할 때 다양한 알고리즘을 고려할 수 있다. 편하다.
+5. 렌더 속도가 매우 느리다
+6. 차지하는 메모리양이 매우 많다.
+7. 수학적 객체와 함께 작동한다.
+8. 모든 지오메트리 정보를 담는다.
