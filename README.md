@@ -294,3 +294,21 @@ A, B 두 이미지 간의 매트로 입력이된다.
 1. 조리개 값(f), 2. 초점거리, 3. 피사체와 거리
 1. ![image](https://user-images.githubusercontent.com/90343486/142591666-0389689e-0c2c-42ff-89ba-4323f8118c30.png)
 2. 출처 https://fantasy297.tistory.com/9 https://whiteknight3672.tistory.com/190 https://blog.daum.net/ayh12123/9148 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=cinetaker&logNo=220264321194
+## 10week, 11wwek, 12week
+### Format Kinds
+#### EXR FILE
+>파일 EXR은 openEXR 비트 맵 파일이다. industrial light & magic 시각 효과 회사에서 만든 오픈 소스 hdr 형식 이미지 파일
+>EXR 파일은 고품질 사진을 저장할 수 있으며, 무손실 또는 손실 압축으로 구성하여 여러 레이어를 지원하고 높은 휘도와 색상을 유지할 수 있다.
+>다양한 사진 편집, 시각 효과 및 애니메이션 프로그램에서 사용된다.
+>EXR 파일 포맷이란 HDR 이미지이다.
+#### EXR 특징
+1. 다른 픽셀 크기의 다중 채널을 지원한다.
+2. 임의의 채널을 가질 수 있으며 왼쪽 및 오른쪽 카메라 이미지와 같은 여러 시점을 인코딩 할 수 있어 입체적인 기술을 지원한다.
+3. HDRI 포맷
+4. 오픈소스 라이센스로 로열티가 없다.
+5. RGB 색상을 지원하고 무손실 압축을 한다.
+6. Diffuse, Indirect, Beauty등 렌더 결과의 다양한 패스(A0V)의 이미지를 한 .exr 파일에 저장가능하다.
+7. 각 픽셀에 추가적인 깊이(depth)정보를 여러개 저장하는 deep compositing을 통해 서로 복잡하게 교차하는 오브젝트들을 무리 없이 합성 가능하다.
+8. HDRI, EXR 파일 추천 사이트 및 정보사이트 https://polyhaven.com/hdris
+9. ![image](https://user-images.githubusercontent.com/90343486/144739218-13918d6f-0f2a-428b-83c2-6cad730d76a2.png)
+10. 출처 https://ko.wikipedia.org/wiki/OpenEXR, https://ko.eyewated.com/exr-%ED%8C%8C%EC%9D%BC%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9E%85%EB%8B%88%EA%B9%8C/, https://namu.wiki/w/OpenEXR, https://www.lifewire.com/exr-file-2621157
