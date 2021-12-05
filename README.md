@@ -330,3 +330,9 @@ A, B 두 이미지 간의 매트로 입력이된다.
 3. 작업속도 면에서 영상시스템의 성능에 많이 치우쳐져있다. 성능이 안좋으면 시간이 많이 걸린다.
 4. 출처 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=hl1ixt&logNo=150118982264
 ### AOV
+> (Arbitary Output Variables) 임의적으로 변경가능한 결과물이라는 뜻
+> 사용자가 원하는 셰이딩 요소들을 따로 렌더할 수 있다.
+> 렌더링 이후에도 이미지 조작및 수정이 가능하다.
+> 그림자나 빛의 정보의 값을 얻을 수 있다.
+1. 출처 https://mogl3d.tistory.com/60, https://frauniemand.tistory.com/4
+> 
