@@ -286,7 +286,7 @@ A, B 두 이미지 간의 매트로 입력이된다.
 >결과적으로 "초점이 맞는 범위"를 조절해준다.
 1. ![image](https://user-images.githubusercontent.com/90343486/142590961-807dff2b-fb7e-417f-9abe-f380d0f28788.png)
 2. 출처 https://blog.daum.net/sansu3160/172, https://tigerhelper.tistory.com/entry/%EC%B9%B4%EB%A9%94%EB%9D%BC-%EC%A1%B0%EB%A6%AC%EA%B0%9C%EA%B0%80-%EB%AD%94%EA%B0%80%EC%9A%94-%EC%A1%B0%EB%A6%AC%EA%B0%9C%EC%9D%98-%EC%97%AD%ED%95%A0%EC%9D%80
-### Depth of field
+### Depth of field(DOF)
 >피사계 심도를 말한다."초점이 맞는 거리"라고 할 수 있다.
 >심도가 깊으면 원거리에서 근거리까지 초첨이 모두 선명한 상태로 촬영된다. (Pan Focus)
 >심도가 얕으면 피사체의 일부분만 선명하게 촬영된다. (out of focus)
@@ -343,7 +343,7 @@ A, B 두 이미지 간의 매트로 입력이된다.
 2. Z-깊이 이미지는 특히 투명도를 다루는데에 특화되어 있다.
 3. 합성과 다른 형식의 데이터를 사용하여 디지털 이미지를 합성하는 방법이며, 추가 깊이 데이터를 사용한다.
 4. 높은 이미지 품질이 생성되며 처리하기 까다로운 아티팩트의 문제들을 해결한다.
-5. 2D 이미지를 가지고 깊이 있게 적절하게 합성할때 사용한다. 투명도, 블러, 자유도를 조절할 가능하며 자연스러운 합성때 사용된다.
+5. 2D 이미지를 가지고 깊이 있게 적절하게 합성할때 사용한다. 투명도, 블러, 자유도를 조절할 가능하며 자연스러운 합성 할 때 사용된다.
 >  
 >  ![image](https://user-images.githubusercontent.com/90343486/144740378-69e731f3-4d1c-4542-8595-6c4620632fb8.png)
 >  ![image](https://user-images.githubusercontent.com/90343486/144740382-51766e8a-5ee6-46dd-9183-7f327322c856.png)
