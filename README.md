@@ -344,6 +344,7 @@ A, B 두 이미지 간의 매트로 입력이된다.
 > 합성과 다른 형식의 데이터를 사용하여 디지털 이미지를 합성하는 방법이며, 추가 깊이 데이터를 사용한다.
 > 높은 이미지 품질이 생성되며 처리하기 까다로운 아티팩트의 문제들을 해결한다.
 >  2D 이미지를 가지고 깊이 있게 적절하게 합성할때 사용한다.
+>  
 >  ![image](https://user-images.githubusercontent.com/90343486/144740378-69e731f3-4d1c-4542-8595-6c4620632fb8.png)
 >  ![image](https://user-images.githubusercontent.com/90343486/144740382-51766e8a-5ee6-46dd-9183-7f327322c856.png)
 1. 출처 https://en.wikipedia.org/wiki/Deep_image_compositing, https://www.fxguide.com/fxfeatured/the-art-of-deep-compositing/, https://www.reddit.com/r/vfx/comments/1in6re/not_being_a_nuke_user_can_someone_explain_what/
