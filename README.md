@@ -312,3 +312,21 @@ A, B 두 이미지 간의 매트로 입력이된다.
 8. HDRI, EXR 파일 추천 사이트 및 정보사이트 https://polyhaven.com/hdris
 9. ![image](https://user-images.githubusercontent.com/90343486/144739218-13918d6f-0f2a-428b-83c2-6cad730d76a2.png)
 10. 출처 https://ko.wikipedia.org/wiki/OpenEXR, https://ko.eyewated.com/exr-%ED%8C%8C%EC%9D%BC%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9E%85%EB%8B%88%EA%B9%8C/, https://namu.wiki/w/OpenEXR, https://www.lifewire.com/exr-file-2621157
+#### HDR FILE (HDRI)
+> (High Dynamic Range Image)
+> 가장 밝은 곳부터 가장 어두운 곳까지, 눈으로 직접 보는 것과 최대한 가깝게 밝기의 범위를 확장하는 기술
+> 서로 다른 사진을 합성하여 전체적으로 고르게 분포 된 색상 범위를 가진 단일 이미지를 만들 수 있다.
+> 8bit 포멧 보다 수백배 많은 색상 정보를 가지고 있다.
+1. 출처 https://ko.eyewated.com/hdr-%ED%8C%8C%EC%9D%BC%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9E%85%EB%8B%88%EA%B9%8C/, https://www.samsung.com/sec/tvs/tv-buying-guide/what-is-hdr-tv/, https://m.blog.naver.com/intenseardor/221736281026
+#### DPX FILE
+> 영화분야와 포스트프로덕션에서 DI(digital intermediate)작업과 영상효과(Visual Effects)작업을 위한 파일형식이다.
+> 필름스캐너에서 스캔한 원래의 이미지에 대한 RAW이미지로 구성되어 있다.
+> 각 채널에 대한 컬러농도를 표현하는 방식으로 잘 사용된다.
+> 디지털이미지 처리 분야에 많이 사용된다.
+> KODAK사의 cineon필름스캐너에서 사용되던 .cin파일을 개선하여 표준으로 정의된 파일형식이다.
+> 비트맵
+#### DPX 단점
+1. 데이터용량이 크다.
+3. 작업속도 면에서 영상시스템의 성능에 많이 치우쳐져있다. 성능이 안좋으면 시간이 많이 걸린다.
+4. 출처 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=hl1ixt&logNo=150118982264
+### AOV
