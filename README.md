@@ -348,6 +348,7 @@ A, B 두 이미지 간의 매트로 입력이된다.
 >  ![image](https://user-images.githubusercontent.com/90343486/144740378-69e731f3-4d1c-4542-8595-6c4620632fb8.png)
 >  ![image](https://user-images.githubusercontent.com/90343486/144740382-51766e8a-5ee6-46dd-9183-7f327322c856.png)
 3. 출처 https://en.wikipedia.org/wiki/Deep_image_compositing, https://www.fxguide.com/fxfeatured/the-art-of-deep-compositing/, https://www.reddit.com/r/vfx/comments/1in6re/not_being_a_nuke_user_can_someone_explain_what/
+## 13week, 14week
 ### Scanline render & Raytracing render Difference
 #### Scanline render
 1. 렌더링된 이미지의 모든 픽셀을 통해 카메라의 광선을 전달한다.
@@ -367,3 +368,4 @@ A, B 두 이미지 간의 매트로 입력이된다.
 6. 차지하는 메모리양이 매우 많다.
 7. 수학적 객체와 함께 작동한다.
 8. 모든 지오메트리 정보를 담는다.
+9. 출처 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=undergrd&logNo=220394965594, https://www.cgvizstudio.com/difference-between-scanline-rendering-and-raytracing-rendering/
